@@ -1,0 +1,18 @@
+Methodology and techniques used:
+1. State-crime data set:  number of registered cases of different crime forms, from 2001 -2013.
+
+2. State-police data set: number of police of various ranks assigned in al the states from 2001-2013.
+
+3. PANDAS for data set operations.
+
+4. Coding is done in python programming language.
+
+5. Deep learning concepts are used.
+
+6. Application of machine learning (ML) algorithms.
+
+7. matplotlib for graphical representation.
+
+
+Bibliography:
+Data sets are obtained from data.gov.in
